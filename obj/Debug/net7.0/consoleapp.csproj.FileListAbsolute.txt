@@ -1,0 +1,15 @@
+/Users/pavankumarpotta/Workspace/consoleapp/bin/Debug/net7.0/consoleapp
+/Users/pavankumarpotta/Workspace/consoleapp/bin/Debug/net7.0/consoleapp.deps.json
+/Users/pavankumarpotta/Workspace/consoleapp/bin/Debug/net7.0/consoleapp.runtimeconfig.json
+/Users/pavankumarpotta/Workspace/consoleapp/bin/Debug/net7.0/consoleapp.dll
+/Users/pavankumarpotta/Workspace/consoleapp/bin/Debug/net7.0/consoleapp.pdb
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.csproj.AssemblyReference.cache
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.AssemblyInfoInputs.cache
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.AssemblyInfo.cs
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.csproj.CoreCompileInputs.cache
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.dll
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/refint/consoleapp.dll
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.pdb
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/consoleapp.genruntimeconfig.cache
+/Users/pavankumarpotta/Workspace/consoleapp/obj/Debug/net7.0/ref/consoleapp.dll
